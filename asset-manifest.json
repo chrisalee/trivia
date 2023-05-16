@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trivia/static/css/main.e87b4bdb.css",
+    "main.js": "/trivia/static/js/main.e4deb240.js",
+    "index.html": "/trivia/index.html",
+    "main.e87b4bdb.css.map": "/trivia/static/css/main.e87b4bdb.css.map",
+    "main.e4deb240.js.map": "/trivia/static/js/main.e4deb240.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87b4bdb.css",
+    "static/js/main.e4deb240.js"
+  ]
+}
